@@ -2,7 +2,7 @@
 
 ## Use
 1st input is a number
-2nd input is a sign
+2nd input is one of following signs
 
         +
 
