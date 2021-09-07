@@ -2,4 +2,12 @@
 
 ## Use
 1st input is a number
-2nd input is a sign **+** **-** **/** or <strong>*</strong>
+2nd input is a sign
+
+        +
+
+        -
+
+        /
+
+        *
