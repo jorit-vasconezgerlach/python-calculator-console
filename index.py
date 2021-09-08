@@ -12,4 +12,4 @@ while 0==0:
     if sign == "*":
         final = first*second
 
-    print(">>", final)
+    print("Result: ", final)
